@@ -1,0 +1,168 @@
+    1  ls
+    2  clear
+    3  ll
+    4  ls
+    5  clear
+    6  more readme.txt 
+    7  ls
+    8  vi readme.txt 
+    9  clear
+   10  ls
+   11  ll
+   12  more readme.txt 
+   13  vi readme.txt 
+   14  clear
+   15  ls
+   16  clear
+   17  echo # hopeedu >> README.md
+   18  ls
+   19  echo aaaa>>readme.txt 
+   20  ll
+   21  vi more
+   22  clear
+   23  ls
+   24  vi readme.txt 
+   25  clear
+   26  ls
+   27  ll
+   28  cd test/
+   29  ls
+   30  clear
+   31  ll
+   32  git remote add test https://github.com/zchxcz/hopeedu.git
+   33  ls
+   34  echo #hopeedu >> README.md
+   35  ls
+   36  git init
+   37  git add README.md
+   38  git add README.md
+   39  git commit -m "first commit"
+   40  git config user.email 986749611@qq.com
+   41  git config --global user.name zchxcz
+   42  git commit -m "first commit"
+   43  clear
+   44  ls
+   45  git remove -v
+   46  git --help
+   47  git --help >githelp.txt
+   48  git push README.md
+   49  git config --list
+   50  git init
+   51  cls
+   52  clear
+   53  git fetch origin master
+   54  git push orgin git://127.0.0.1/test.git:https://github.com/zchxcz/hopeedu.git
+   55  git push orgin git://127.0.0.1/test.git:git@github.com:zchxcz/hopeedu.git
+   56  cd /
+   57  ls
+   58  cd /workspace/
+   59  ls
+   60  git clone https://github.com/alibaba/dubbo.git dubbo
+   61  ls
+   62  clear
+   63  cd dubbo/
+   64  ls
+   65  git clone https://github.com/alibaba/hopeedu.git hopeedu
+   66  git clone https://github.com/alibaba/hopeedu.git hopeedu
+   67  git clone git@github.com:zchxcz/test.git
+   68  git config --global user.name zchxcz
+   69  git config --list
+   70  git clone git@github.com:zchxcz/test.git
+   71  cd /
+   72  ls
+   73  cd ~/.ssh/
+   74  ls
+   75  vi known_hosts 
+   76  clear
+   77  which git
+   78  cls
+   79  clear
+   80  clear
+   81  git config --global user.name "zchxcz"
+   82  git config --global user.email "986749611@qq.com"
+   83  cd ~/.ssh
+   84  ls
+   85  pwd
+   86  clear
+   87  ssh-keygen -t rsa -C "986749611@qq.com"
+   88  ls
+   89  clear
+   90  ll
+   91  pwd
+   92  cd /workspace/
+   93  ls
+   94  pwd
+   95  clear
+   96  ll
+   97  ls
+   98  git show
+   99  cd test/
+  100  ls
+  101  git show
+  102  clear
+  103  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDJPZhrF/dTlK2C/7pevz5QOY++zCvLCAyMa6u3bWBM2VUBp5sGyto1zF5Eg/ayOVRhWmgcox18x+Rs1/gZVdpbbW9QEtO/Dal2Za2db91dfNjN9yKqwsKGvt+AnAOln64FpUnaNDLnhkmTPgGxPd2PMPhi756KUFgtMdS4ANf9EZD7RD0/C/oWftLOwKBb5mFXmdQ4ntkTnqpUsdZpy738nVnOVPP0Vu0crLRxJRXeNwiIx+0zvJyIcxDolt/4v0P8DGt6qWL8V1NAiaB/N9oWp9UOAgoNEH/BNJ2dCbKjw2KgAUAYzVW5Q+7rVRJtLKlAf2Wk0RDsgVuGixWuV+OT 986749611@qq.com
+  104  git log --stat
+  105  git pull
+  106  git remote -v
+  107  ls
+  108  clear
+  109  ll
+  110  rm -rf README.md 
+  111  ls
+  112  clear
+  113  git commit 
+  114  ls
+  115  clear
+  116  git diff
+  117  git clone https://github.com/codenvy/che.git
+  118  ls
+  119  clear
+  120  ll
+  121  pwd
+  122  cd tes
+  123  cd /
+  124  ls
+  125  cd workspace/
+  126  ls
+  127  cd test/
+  128  ls
+  129  cd che/
+  130  l
+  131  clear
+  132  ls
+  133  vi README.md 
+  134  clear
+  135  pwd
+  136  cd /
+  137  ls
+  138  cd workspace/
+  139  ls
+  140  git clone https://git.oschina.net/tinyframework/sdpm.git
+  141  git show -v
+  142  git --help
+  143  git log
+  144  git show -v
+  145  ls
+  146  clear
+  147  git commit
+  148  clear
+  149  git show -v
+  150  ls
+  151  clear
+  152  ll
+  153  git pull 
+  154  git pull
+  155  git pull
+  156  git push
+  157  git config --global push.default simple
+  158  git push
+  159  git push --set-upstream origin master
+  160  git show -v
+  161  ls
+  162  vi aaa.txt
+  163  clear
+  164  git push
+  165  git pull
+  166  git commit aaa.txt 
+  167  git commit
+  168  history >history.txt
